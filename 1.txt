@@ -1,3 +1,29 @@
-Hello world!!!
-hello
-world
+[33mcommit e90d9afc95766b0a042472b7bebfff569c6dcbb8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Roman <jobhant@ukr.net>
+Date:   Sat Jul 23 18:31:18 2022 +0300
+
+    третий коммит
+
+[33mcommit b0a0a1ef0831b516fceaaf37c1d6945bf9f310d1[m
+Author: Roman <jobhant@ukr.net>
+Date:   Sat Jul 23 18:25:13 2022 +0300
+
+    второй коммит
+
+[33mcommit b24283cb2b9422d8d5df3300281f0fb679b45980[m
+Author: Roman <jobhant@ukr.net>
+Date:   Sat Jul 23 18:20:07 2022 +0300
+
+    Первый комит
+
+[33mcommit bff3d61d5143477693267a34f89983a367f1ceb2[m
+Author: Roman <jobhant@ukr.net>
+Date:   Thu Jul 21 21:35:51 2022 +0300
+
+    Зміна 2
+
+[33mcommit ff75620be4f4e3fef2454a57325637bb9d129cea[m
+Author: Roman <jobhant@ukr.net>
+Date:   Thu Jul 21 21:10:01 2022 +0300
+
+    Зміна
